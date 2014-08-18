@@ -1,4 +1,4 @@
-How to support server-only HTTP POST hooks
+Supporting web hooks in Meteor
 ======
 
 See `posthooks.js` for example code.
